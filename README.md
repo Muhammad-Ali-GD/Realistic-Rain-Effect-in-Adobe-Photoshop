@@ -10,6 +10,6 @@ Then simply apply path blur from blur gallary in filter panel to change the dire
 
 To make the effect more realistic, I added a brightness/contrast effect on top of the picture and decreased the brightness of picture to make a more realistic cloudy effect. Then, I converted it to clipping mask so that it only affects the picture below. Here, is our Realistic Rain Effect in Adobe Photoshop.
 
-For Editable Asset Visit: https://www.behance.net/muhammadali850
+For Editable Asset Visit: https://www.behance.net/gallery/191145989/Realistic-Rain-Effect-in-Adobe-Photoshop
 
 Editing Credits: Muhammad Ali
